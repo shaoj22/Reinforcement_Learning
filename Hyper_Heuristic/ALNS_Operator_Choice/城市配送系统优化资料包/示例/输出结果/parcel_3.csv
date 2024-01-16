@@ -1,0 +1,6 @@
+parcel_id,is_transfer,vehicle_id,node_loaded,node_unloaded
+0,FALSE,1,node_1,node_2
+1,TRUE,1,node_1,node_2
+1,TRUE,2,node_2,node_3
+2,FALSE,2,node_2,node_3
+3,FALSE,0,node_3,node_2

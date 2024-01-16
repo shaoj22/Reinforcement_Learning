@@ -1,0 +1,4 @@
+name,x,y,transfer
+node_1,100,100,FALSE
+node_2,100,200,TRUE
+node_3,200,200,FALSE

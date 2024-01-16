@@ -1,0 +1,10 @@
+name_x,name_y,time
+node_1,node_1,0
+node_1,node_2,100
+node_1,node_3,200
+node_2,noed_1,100
+node_2,node_2,0
+node_2,node_3,100
+node_3,node_1,200
+node_3,node_2,100
+node_3,node_3,0

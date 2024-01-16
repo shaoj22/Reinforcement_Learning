@@ -1,0 +1,7 @@
+﻿parameter,value
+vehicle_capacity,100
+vehicle_service_time,100
+parcel_transfer_time,400
+vehicle_fixed_cost,2000
+vehicle_unit_travel_cost,1
+parcel_transfer_unit_cost,1

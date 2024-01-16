@@ -1,0 +1,5 @@
+id,origin,destination,start_time,end_time,quantity
+0,node_1,node_2,0,2000,50
+1,node_1,node_3,0,2000,50
+2,node_2,node_3,0,2000,50
+3,node_3,node_2,0,2000,100
